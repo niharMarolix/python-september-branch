@@ -1,4 +1,4 @@
-list = [4,5,6,7,8,10,11]
+list = [4,5,6,7,8,10]
 target = 18
 
 for i in range(len(list)):
