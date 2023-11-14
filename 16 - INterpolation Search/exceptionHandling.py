@@ -33,7 +33,7 @@ groceries = ["apples", "bananas", "carrots", "eggs", "milk", "bread", "chicken",
 
 userNamesList = list(dict.values(db))
 currentCustomerUserName = "raja"
-productName = "dvfdsvdfsv"
+productName = "bananas"
 res = addToCart(userNamesList, currentCustomerUserName, productName, addTOCart, groceries)
 print(res)
 
