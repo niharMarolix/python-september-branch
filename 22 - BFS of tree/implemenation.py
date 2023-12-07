@@ -7,7 +7,7 @@ class TreeNode:
 
 def binaryTree():
     root = TreeNode("Mancherial")
-    root.left = TreeNode("YGG")
+    root.left = TreeNode("             YGG")
     root.left.left = TreeNode("Warangal")
     root.left.right = TreeNode("Secunderabad")
     root.right = TreeNode("Medak")
